@@ -1,5 +1,7 @@
 ![Verify Build Workflow](https://github.com/Apicurio/apicurio-studio/workflows/Verify%20Build%20Workflow/badge.svg)
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/18f1506c-c695-4c84-91e6-859899b7e5e3.svg)](https://app.soluble.cloud/repos/details/github.com/jeevanragula/apicurio-studio)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/5261d187-0f89-48d8-8ef5-022a3a3117d3.svg)](https://app.soluble.cloud/repos/details/github.com/jeevanragula/apicurio-studio)  
+
 # The apicurio-studio project (Open Source API Design Studio)
 
 ## Summary
